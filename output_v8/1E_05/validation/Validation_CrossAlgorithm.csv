@@ -1,0 +1,2 @@
+"Algorithm","N_ref","N_detected","TP","FP","FN","Precision","Recall","F1_Score","Mean_IoU","RMSE_H_m","MAE_H_m","RMSE_CA_m2","MAE_CA_m2"
+"Dalponte2016",3812,3716,3735,-19,77,1.0051,0.9798,0.9923,0.7713,1.2211,0.466,3.7745,2.31
